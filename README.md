@@ -24,7 +24,7 @@ python train.py-net vit （-gpu）
 python test.py -net vit -weights path_to_the_weight
 ```
 
-### 4. 训练后模型
+### 4. 训练后checkpoint（ViT、CvT、CCvT、CSvT）
 
 见[ConvST](https://drive.google.com/drive/folders/1MZMjI9sAZnKLWdwQO8KcD4L3yc_hfmEU?usp=drive_link)
 
