@@ -26,7 +26,7 @@ python test.py -net vit -weights path_to_the_weight
 
 ### 4. 训练后模型
 
-见checkpoint目录
+见[ConvST](https://drive.google.com/drive/folders/1MZMjI9sAZnKLWdwQO8KcD4L3yc_hfmEU?usp=drive_link)
 
 ## 参考
 
