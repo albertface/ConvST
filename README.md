@@ -6,7 +6,9 @@
 
 ### 1. 环境
 
-python=3.8.13, CUDA=11.7
+python=3.8.13
+
+CUDA=11.7
 
 ```bash
 pip install -r  requirement.txt
