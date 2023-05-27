@@ -1,6 +1,6 @@
 ## ConvST
 
-在此项目中复现了ViT、CvT两篇论文，并基于CvT改进得到CCvT、CSvT两个算法，并尝试在CIFAR-10数据集训练。
+在此项目中复现了ViT、CvT两篇论文，基于CvT改进得到CCvT、CSvT两个算法，并完成了在CIFAR-10数据集的训练和测试。
 
 ## 使用
 
